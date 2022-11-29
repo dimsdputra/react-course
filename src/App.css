@@ -1,0 +1,9 @@
+.shadow-box-lg {
+    box-shadow: 10px 10px #d97706;
+}
+.shadow-box-md {
+    box-shadow: 6px 6px #78350f;
+}
+.shadow-box-sm {
+    box-shadow: 3px 3px #78350f;
+}
